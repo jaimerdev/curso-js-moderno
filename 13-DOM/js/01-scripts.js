@@ -16,5 +16,7 @@ element = document.links[4].classList;
 element = document.links[4].className;
 element = document.images;
 element = document.scripts;
+element = document.images
+
 
 console.log(element);
